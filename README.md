@@ -4,7 +4,7 @@ Reproducibility repository for the manuscript:
 
 **Finite-sample bias in ordinal complexity–entropy planes: exact identities under overlapping patterns**
 
-Airton M. S. Borin Jr., Robson H. Rosa, and Rafael R. Ferreira  
+A. M. S. Borin Jr., D.Sierra-Porta R. H. Rosa, and R. R. Ferreira  
 Federal Institute of Triângulo Mineiro (IFTM), Uberaba, MG, Brazil
 
 ## Overview
